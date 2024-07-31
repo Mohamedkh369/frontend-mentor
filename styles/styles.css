@@ -1,0 +1,41 @@
+body {
+  background-color:aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.card {
+  width: 300px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 15px;
+  border-radius: 5%;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.qr-image {
+    width: 100%;
+  border-radius: 6%;
+}
+
+.card-body{
+    font-family: sans-serif;
+    text-align: center;
+   
+}
+
+#front-end-skills{
+    font-size: 1.4rem;
+    font-weight: bold;
+    
+}
+#qr-instructions{
+color: gray;
+}
+
+
